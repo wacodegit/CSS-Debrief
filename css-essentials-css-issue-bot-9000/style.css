@@ -1,5 +1,5 @@
 body {
-  background pink;
+  background: pink;
 }
 
 h1 {
@@ -9,15 +9,15 @@ h1 {
 
 h2 {
   color: green;
-  font-weight: normal
-  font-style: serif;
+  font-weight: normal;
+  font-style: normal;
 }
 
 .completed {
-  font-family: 12px;
+  font-family: Arial;
 }
 
 #tasks .completed {
-  backgound: #ccc;
+  background : #ccc;
   text-decoration: underline;
 }
