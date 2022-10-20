@@ -37,3 +37,12 @@ write-your-selector-here {
   top: 217px;
   left: 223px;
 }
+.parent-element {
+  position: relative;
+}
+
+.child-element {
+  position: absolute;
+  top: 50px;
+  left: 50px;
+}
